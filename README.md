@@ -207,11 +207,11 @@ besitzen Sie nicht.
 
 ##### Datengrundlage
 
-[06\_Deckungsbeitragsrechnung\_Normalwald\_Blanko.xlsx](./6_Deckungsbeitragsrechnung_Normalwald_Blanko.xlsx)
+[Dean-Modell_Vorlage.xlsx](./Dean-Modell_Vorlage.xlsx)
 
 ##### Musterlösung
 
-[06\_Deckungsbeitragsrechnung\_Normalwald\_Loesung.xlsx](./06_deckungsbeitragsrechnung_normalwald/-/blob/master/6_Deckungsbeitragsrechnung_Normalwald_Loesung.xlsx)
+[Dean-Modell_Lösung.xlsx](./Dean-Modell_Lösung.xlsx)
 
 <h3>
 <a name="7. Literatur">7. Literatur</a>
