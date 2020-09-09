@@ -1,7 +1,7 @@
 Dean-Modell
 -----------
 
-#### Kurbeschreibung des Modells
+#### Kurzbeschreibung des Modells
 
 Beim Dean-Modell handelt es sich um ein *Ein-Perioden-Modell* zur
 Ermittlung eines optimalen Investitions- und Finanzierungsprogramms.
